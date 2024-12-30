@@ -17,7 +17,7 @@
 ############################  SETUP PARAMETERS
 app_name='spf17-vim'
 [ -z "$APP_PATH" ] && APP_PATH="$HOME/.spf17-vim-3"
-[ -z "$REPO_URI" ] && REPO_URI='git@github.com:andreimerlescu/spf13-vim.git'
+[ -z "$REPO_URI" ] && REPO_URI='https://github.com/andreimerlescu/spf13-vim.git'
 [ -z "$REPO_BRANCH" ] && REPO_BRANCH='3.0'
 debug_mode='0'
 fork_maintainer='0'
